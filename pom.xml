@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>anagram-generator</artifactId>
+    <artifactId>anagrama-generador</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>AnagramGenerator</name>
+    <name>AnagramaGenerador</name>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -15,7 +15,6 @@
     </properties>
 
     <dependencies>
-        <!-- Dependência para JUnit 5 (se necessário) -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
